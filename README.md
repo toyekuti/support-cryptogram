@@ -1,2 +1,2 @@
 # support-cryptogram
-Solution for an Hackbright Academy cryptogram with the theme: your main avenues for support.
+Solution for an Hackbright Academy's cryptogram - Support Cryptogram, with the theme: your main avenues for support.
